@@ -31,3 +31,8 @@ h1 {
 li{
 list-style: none;
 }
+
+#err{
+    color: red;
+    font-size: 13px;
+}
